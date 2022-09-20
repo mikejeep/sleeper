@@ -1,13 +1,37 @@
 /*   STEP 1   */
 export const leagueID = "784359617013682176"; // your league ID
 export const leagueName = "Dunstable Dynasty"; // your league name
-export const dues = 70; // (optional) used in template constitution page
+export const dues = 50; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Testing.</p>
+  <p>2022 Bets
+
+Shigo/McLane - CEH vs Rojo, total fantasy points in 2022. Loser pays for 2023 golf. No caveats, like men
+
+Shigo/Frosy -ROJO 600 yards all purpose and at least 4 TDs.  Deal nullified due to season ending injury.  $100
+
+2023 League Proposals
+
+
+2023 Payouts
+
+1st - 400
+2nd - 200
+3rd - 100
+
+Rosters to 25 ~ Wednesday August 31 5pm
+
+Free Agents Open - Friday September 2pm
+
+Taxi Rules 🚕
+- 1 and 2 year players only
+- cannot use a taxi player that year
+- must be declared by start of season …cannot add or remove from squad
+- can trade someone from taxi
+- don’t be a sick about the rules, just add a player and enjoy!</p>
 `;
 
 /*   STEP 3   */
