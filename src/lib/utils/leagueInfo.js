@@ -7,23 +7,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>2022 Bets</p>
-
-<p>Shigo/McLane - CEH vs Rojo, total fantasy points in 2022. Loser pays for 2023 golf. No caveats, like men</p>
-
-<p>Shigo/Frosy -ROJO 600 yards all purpose and at least 4 TDs. Deal nullified due to season ending injury. $100</p>
-
-<p>2023 League Proposals</p>
-
-<p> 2023 Payouts</p>
-
-<p>1st - 400 2nd - 200 3rd - 100</p>
-
-<p>Rosters to 25 ~ Wednesday August 31 5pm</p>
-
-<p>Free Agents Open - Friday September 2pm</p>
-
-<p>Taxi Rules &#55357;&#56981; - 1 and 2 year players only - cannot use a taxi player that year - must be declared by start of season &#8230;cannot add or remove from squad - can trade someone from taxi - don&rsquo;t be a sick about the rules, just add a player and enjoy!</p>
 `;
 
 /*   STEP 3   */
